@@ -1,1 +1,5 @@
-This is Hello World!
+server:
+  port: 8769
+spring:
+  application:
+    name: config-consumer
