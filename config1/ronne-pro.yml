@@ -1,2 +1,3 @@
-server: 8769
-name: hello,World
+server:
+  port: 8081
+nickName: world
